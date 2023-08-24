@@ -1,0 +1,6 @@
+*.pyc
+.idea/*
+log/*
+.idea
+MxForum/.idea
+MxForum/.idea/*
